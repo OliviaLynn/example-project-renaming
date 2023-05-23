@@ -1,5 +1,5 @@
 [project]
-name = "example_project_orl"
+name = "example_project_olynn"
 license = {file = "LICENSE"}
 readme = "README.md"
 authors = [
